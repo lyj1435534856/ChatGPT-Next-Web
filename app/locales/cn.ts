@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "现在是未授权状态，请点击[这里](https://www.youpumao.xyz/UNjENv)获取访问密码。",
+      "现在是未授权状态，请点击[这里](http://fk.xbbwk.top)获取访问密码。",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
